@@ -70,3 +70,4 @@ const btn = document.getElementById('buy-ticket')
                 btn.textContent = 'Sold Out'
             }
     })
+Footer
